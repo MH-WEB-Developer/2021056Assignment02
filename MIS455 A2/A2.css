@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+}
+
+.container{
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+
+}
+.i{
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    left:300px ;
+}
+.container{
+    display: flex;
+   
+   
+}
+.inner{
+    border: 2px solid rgb(168, 163, 163);
+    margin: 20px;
+    padding: 20px;
+}
+.abc{
+    margin: 40px;
+    position: relative;
+    left: 80px;
+}
+img.a{
+    alignment: left;
+    height: 40px;
+    width: 40px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.a{
+    margin: 20px;
+    padding: 20px;
+    position: relative
+    
+}
+    
